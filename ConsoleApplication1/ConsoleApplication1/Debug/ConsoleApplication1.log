@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+c:\users\student21\3d objects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(35): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\student21\3d objects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(36): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\student21\3d objects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(37): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\student21\3d objects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(38): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  ConsoleApplication1.vcxproj -> C:\Users\student21\3D Objects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\student21\3D Objects\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
